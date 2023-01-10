@@ -1,0 +1,30 @@
+.wrapper {
+    margin: 0 auto;
+    align-items: center;
+}
+
+.button {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: none;
+  cursor: pointer;
+  margin: 300px;
+  margin-left: 600px;
+  display: flex;
+  padding: 10px 15px;
+  border-radius: 1px;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: white;
+  background: #050599;
+  transition: 0.3s;
+  width: 100px;
+  height: 20px;
+}
+.bi  { 
+    margin-left: 10px;
+}

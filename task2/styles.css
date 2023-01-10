@@ -1,0 +1,11 @@
+body {
+    background-color: darkcyan;
+}
+.button {
+    background-color: lightblue;
+    padding: 30px;
+    margin: 200px;
+    cursor: pointer;
+    border: none;
+    color: white;
+}
